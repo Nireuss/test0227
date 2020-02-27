@@ -1,0 +1,45 @@
+感动漫游（www.gamestwar.com）
+
+
+—————————《极品飞车16：亡命狂飙》中英文限定版—————————
+
+======================================================================
+
+感动的一些无谓说明（你们必须得看！）：
+
+======================================================================
+1、解压到你游戏盘符根目录下（不要新建文件夹、也不要解压到当前文件夹）
+2、游戏已经集成V1.1解锁30帧限制及全车辆解锁（‘Need For Speed The Run_source’为游戏原始执行文件，供正版激活运行使用，如不需要可以删除）
+3、进入“_Installer”文件夹下，把“directx”和“vc”里的“redist”文件夹下的系统组件全部安装
+4、运行中文注册表修复工具进行注册游戏
+5、运行游戏前务必保证显卡驱动已经在官网更新并升级到最新版本
+6、运行游戏享受吧
+======================================================================
+感动漫游_极品飞车16论坛版区：http://www.gamestwar.com/forum.php?mod=forumdisplay&fid=88
+感动漫游_首页：http://www.gamestwar.com
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+附带一些常用系统组件下载地址：
+
+Redist（没有会提示缺失*.dll、DirectX、VC++等）：
+http://kuai.xunlei.com/d/ZBRNZJYCRCCS
+
+WIN7 64位旗舰版（为纯净安装版，一步一步安装的那种，安装前主板和显卡驱动请自备）：
+http://kuai.xunlei.com/d/ZXAHJBLPURIH
+
+如何使用DT加载系统镜像文件：
+http://kuai.xunlei.com/d/ZAZDOHUAZNPX\
+
+WIN XP_Service Pack 3(SP3)：同样为纯净安装版，不过目前大部分游戏都不支持XP，这个系统仅供大家工作时之用：
+http://kuai.xunlei.com/d/ZZLNQJQLGQNL
+
+Alcohol 120% 专业零售多国语言版 v2.0.2.3929
+http://kuai.xunlei.com/d/ZJLZAJXSQKAN
+
+DAEMON Tools Lite 4.40.2游侠原创简体中文V5.7版
+http://kuai.xunlei.com/d/ZQUYCTQTSNZU
+
+directx_Jun2010_redist
+http://kuai.xunlei.com/d/ZYERPURQSGWX
+
+【其他所有系统安装必备组件或软件下载】
+http://kuai.xunlei.com/s/gSzAVfvd307zVUw5AKcJgQ
